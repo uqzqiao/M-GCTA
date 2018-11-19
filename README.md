@@ -1,13 +1,13 @@
 # M-GCTA #
 *This document is under developement. Your ideas and suggestions are always welcome! 
 
-M-GCTA is an user-friendly M-GCTA software package, which can be used to estimate the proportion of phenotypic variance due to tagged maternal (or paternal) and offspring genetic effects on offspring phenotypes using large studies where genome-wide genotype data are available on mother- (or father-) offspring pairs. 
+M-GCTA is an user-friendly software package, which can be used to estimate the proportion of phenotypic variance due to tagged maternal (or paternal) and offspring genetic effects on offspring phenotypes using large studies where genome-wide genotype data are available on mother- (or father-) offspring pairs. 
 
 ## Getting started ##
 
 ### Download ###
 The executable files are provided in this directory. See ```M-GCTA_beta_0.1.0.tar.gz```  
-The executable files below only support a 64-bit operating system on the x86_64 CPU platform.
+The executable files only support a 64-bit operating system on the x86_64 CPU platform.
 * The current version is beta 0.1.0; 64-bit
 * The source code will be released soon.
 
