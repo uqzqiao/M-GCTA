@@ -6,18 +6,18 @@ M-GCTA is an user-friendly software package, which can be used to estimate the p
 ## Getting started ##
 
 ### Download ###
-The executable files are provided in this directory. See ```M-GCTA_beta_0.1.0.tar.gz```  
+The executable files are provided in this directory. See ```M-GCTA_beta_0.1.1.tar.gz```  
 The executable files only support a 64-bit operating system on the x86_64 CPU platform.
-* The current version is beta 0.1.0; 64-bit
+* The current version is beta 0.1.1; 64-bit
 * The source code will be released soon.
 
 ### Who do I talk to? ###
 If you have any questions or trouble getting the method to work, try first to check if it is reported or addressed in the **GCTA website** [http://cnsgenomics.com/software/gcta/#Overview] and the **GCTA forum** [http://gcta.freeforums.net/thread/1/welcome-gcta-discussion-board]. M-GCTA is built on GCTA Version 1.26.0 and you may find it familiar to use if you are an experienced GCTA user. 
 
-In emergencies, please contact Zhen Qiao (z.qiao1@uq.edu.au). I am currently preparing for my PhD thesis, apologzie for any (potential) delay in response. 
+In emergencies, please contact Zhen Qiao (z.qiao1@uq.edu.au). 
 
-### How to cite this software? ###
-The manuscript will be submitted soon. 
+### How to cite this software? ###will be submitted soon.
+The manuscript is currently under revision.
 
 ## Using M-GCTA ## 
 
