@@ -16,7 +16,7 @@ If you have any questions or trouble getting the method to work, try first to ch
 
 In emergencies, please contact Zhen Qiao (z.qiao1@uq.edu.au). 
 
-### How to cite this software? ###will be submitted soon.
+### How to cite this software?
 The manuscript is currently under revision.
 
 ## Using M-GCTA ## 
