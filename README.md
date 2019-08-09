@@ -26,7 +26,7 @@ The manuscript is currently under revision.
 
 2. GREML analysis: M-GCTA allows users to construct genetic relationship matrices (GRM) indexing genetic similarity across the genome between parents and offspring, enabling the estimation of variance due to maternal (or alternatively paternal) and offspring genetic effects. 
 
-Of note: M-GCTA is built on the basis of GCTA, so it inherently adopted all GCTA functions. The users can tailor the analysis to their needs, but please bear in mind that this is a subject for further inquiry. 
+Of note: M-GCTA is built on the basis of GCTA, so it inherently adopts all GCTA functions. The users can tailor the analysis to their needs, but please bear in mind that this is a subject for further inquiry. 
 
 ### QC step ###
 This step is to extract unrelated mother-/father-offspring pairs.
@@ -39,7 +39,7 @@ For father-offspring pairs
 
 `mgcta64 --bfile test --prep-pat --grm-cutoff 0.025 --founders --pheno test.phen --mpheno 2 --thread-num  10 --make-bed --out test`
 
- *--prep-mat: extracted mother-offspring pairs. If --pheno is presented, it will extracted mother-offspring pairs for which the offspring have phenotype data.
+ *--prep-mat: extracted mother-offspring pairs. If --pheno is presented, it will extract mother-offspring pairs for which the offspring have phenotype data.
  
  *--prep-pat: similar as --prep-mat, but for father-offspring pairs.
  
